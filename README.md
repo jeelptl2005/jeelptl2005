@@ -1,4 +1,4 @@
-![Banner](./jeelpatel.png)
+![Banner](./jeel.png)
 
 <h1 align="center">Hi 👋, I'm Jeel Patel</h1>
 <h3 align="center">A Computer Engineer from India</h3>
